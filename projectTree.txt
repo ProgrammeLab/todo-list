@@ -1,0 +1,28 @@
+├──git
+├──static
+|   ├──script.js
+|   └──style.css
+├──iconfont.css
+├──index.html
+├──package-lock.json
+├──package.json
+├──projectTree.txt
+├──README.pdf
+├──test.html
+└──test.js
+
+Lottery
+├── product
+│   ├── src
+│   │   ├── lottery
+│   │   │   └── index.js
+│   │   ├── lib
+│   │   ├── img
+│   │   ├── css
+│   │   └── data
+│   ├── package.json
+│   └── webpack.config.js
+├── server
+│   ├── config.js
+│   ├── server.js
+│   └── package.js
